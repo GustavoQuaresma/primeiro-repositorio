@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esse é o novo arquivo que vou enviar para o github
+=======
+segundo arquivo
+>>>>>>> 75dbcd33b71414ff5bc9a27cd22eeede05e76842
